@@ -1,0 +1,23 @@
+.home-title{
+    text-align: center;
+    color: #BF0404;
+    font-family: 'Oswald', sans-serif;
+}
+
+.search-term{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.search-term span{
+    color: #F2561D;
+}
+.news-container{
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 10px auto;
+    padding: 1rem;
+}
+
